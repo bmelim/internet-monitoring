@@ -10,13 +10,13 @@ Before we get started installing the Prometheus stack. Ensure you install the la
 If on Mac run this:
 
 ```
-git clone https://github.com/maxandersen/internet-monitoring && cd internet-monitoring/prometheus && docker-compose up && open http://localhost:3030/d/o9mIe_Aik/internet-connection
+git clone https://github.com/bmelim/internet-monitoring && cd internet-monitoring/prometheus && docker-compose up && open http://localhost:3030/d/o9mIe_Aik/internet-connection
 ```
 
 otherwise:
 
 ```
-git clone https://github.com/maxandersen/internet-monitoring
+git clone https://github.com/bmelim/internet-monitoring
 cd internet-monitoring/prometheus
 docker-compose up
 ```
